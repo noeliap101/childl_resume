@@ -71,7 +71,7 @@ __The Church of Jesus Christ of Latter Day Saints__, Uruguay
  - Helped individuals grow into leadership positions
 
 
-### Knowledge, Skills
+## Knowledge, Skills
 
 __Computer Languages__
  

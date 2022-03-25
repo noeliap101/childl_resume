@@ -8,78 +8,79 @@ Studying Data Science at Brigham Young University Idaho.
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/lisa-child-5a523022b/">LinkedIn</a>
+| <a href="https://github.com/ChildL">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`1985 - 1992`
+`Expected 2026`
 __Brigham Young University__, Provo, UT
 
-- Full academic scholarship with 4.0 GPA
-
+- MS Statistics
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- BS Data Science
+- Certificate GIS
 
+`1985 - 1990`
+__Brigham Young University__, Provo, UT
+
+- BS Marketing
 
 ## Related Experience
 
-### Internships
+### Projects
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`2020`
+__Madison Fire Department__, Rexburg, Idaho
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Used R and Visual Samples to represent department call volumes and population growth for Madison County
 
-### Data Science Lead
+`2021`
+__Brigham Young University Idaho__, Rexburg, Idaho
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- R project to represent snow data from Grand Targhee and Park City 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`2022`
+__Brigham Young University Idaho__, Rexburg, Idaho
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Two player video game in C# using classes and object oriented programming
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`1990-1992`
+__TransEra__
 
-### Data Science Consulting Team
+- Marketing Consultant
+- Serviced International Governmental Contracts and End User Customers
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Volunteer Experience
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Full Time Volunteer
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`1988-1989`
+__The Church of Jesus Christ of Latter Day Saints__, Uruguay
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Learned and spoke fluent Spanish
+- Taught families and individuals from varying backgrounds and circumstances
+- Created agendas, made goals, and applied problem solving skills
+
+### Advisor to Women's Group
+`2020-2025`
+- Developed soft skills such as leadership, communication, counseling, and aiding in depression and addiction recovery
+ - Helped individuals grow into leadership positions
 
 
-## Service and Work History
+### Knowledge, Skills
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+__Computer Languages__
+ 
+- C #
+- MySQL
+- Python 
+- R
 
 
 <!-- ### Footer

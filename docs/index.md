@@ -83,7 +83,7 @@ __The Church of Jesus Christ of Latter Day Saints__, Uruguay
 ### Advisor to Women's Group
 `2020-2025`
 - Developed soft skills such as leadership, communication, counseling, and aiding in depression and addiction recovery
- - Helped individuals grow into leadership positions
+- Helped individuals grow into leadership positions
 
 
 

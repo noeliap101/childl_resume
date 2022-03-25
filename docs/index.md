@@ -6,10 +6,9 @@ title: Lisa Child's Resume
 Studying Data Science at Brigham Young University Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/in/lisa-child-5a523022b/">LinkedIn</a>
-| <a href="https://github.com/ChildL">GitHub</a>
+<a href="childl@byui.edu">childl@byui.edu</a>
+| <a href="https://www.linkedin.com/in/lisa-child-5a523022b/">MyLinkedIn</a>
+| <a href="https://github.com/ChildL">MyGithub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -26,9 +25,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - BS Data Science
 - Certificate GIS
 
-`1985 - 1990`
+`1985-1990`
 __Brigham Young University__, Provo, UT
-
 - BS Marketing
 
 ## Related Experience
@@ -81,6 +79,7 @@ __Computer Languages__
 - MySQL
 - Python 
 - R
+- Excel
 
 
 <!-- ### Footer

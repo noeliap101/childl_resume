@@ -57,7 +57,6 @@ __Brigham Young University Idaho__, Rexburg, Idaho
 __DSK__, Orem, Utah
 
 - Published Article in Popular Science
-
 - Created Marketing Plan
 
 `1990-1992`

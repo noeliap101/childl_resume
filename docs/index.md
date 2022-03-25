@@ -47,9 +47,15 @@ __Brigham Young University Idaho__, Rexburg, Idaho
 __Brigham Young University Idaho__, Rexburg, Idaho
 
 - Two player video game in C# using classes and object oriented programming
+### Work Experience
+
+`1992-1993`
+__DSK__, Orem, Utah
+- Pulished article in Popular Science
+_ Created Marketing Plan
 
 `1990-1992`
-__TransEra__
+__TransEra__, Provo, Utah
 
 - Marketing Consultant
 - Serviced International Governmental Contracts and End User Customers

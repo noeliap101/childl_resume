@@ -17,7 +17,6 @@ Studying Data Science at Brigham Young University Idaho.
 
 `Expected 2026`
 __Brigham Young University__, Provo, UT
-
 - MS Statistics
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
@@ -31,7 +30,7 @@ __Brigham Young University__, Provo, UT
 
 ## Related Experience
 
-### Projects
+### Statistics Projects and Programming 
 
 `2020`
 __Madison Fire Department__, Rexburg, Idaho
@@ -60,6 +59,16 @@ __TransEra__, Provo, Utah
 - Marketing Consultant
 - Serviced International Governmental Contracts and End User Customers
 
+### Knowledge, Skills
+
+__Computer Languages__
+ 
+- C #
+- MySQL
+- Python 
+- R
+- Excel
+
 ## Volunteer Experience
 
 ### Full Time Volunteer
@@ -77,15 +86,7 @@ __The Church of Jesus Christ of Latter Day Saints__, Uruguay
  - Helped individuals grow into leadership positions
 
 
-## Knowledge, Skills
 
-__Computer Languages__
- 
-- C #
-- MySQL
-- Python 
-- R
-- Excel
 
 
 <!-- ### Footer

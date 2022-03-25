@@ -17,7 +17,9 @@ Studying Data Science at Brigham Young University Idaho.
 
 `Expected 2026`
 __Brigham Young University__, Provo, UT
+
 - MS Statistics
+
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
@@ -26,6 +28,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `1985-1990`
 __Brigham Young University__, Provo, UT
+
+
 - BS Marketing
 
 ## Related Experience
@@ -46,12 +50,15 @@ __Brigham Young University Idaho__, Rexburg, Idaho
 __Brigham Young University Idaho__, Rexburg, Idaho
 
 - Two player video game in C# using classes and object oriented programming
+
 ### Work Experience
 
 `1992-1993`
 __DSK__, Orem, Utah
-- Pulished article in Popular Science
-_ Created Marketing Plan
+
+- Published Article in Popular Science
+
+- Created Marketing Plan
 
 `1990-1992`
 __TransEra__, Provo, Utah
@@ -83,7 +90,7 @@ __The Church of Jesus Christ of Latter Day Saints__, Uruguay
 ### Advisor to Women's Group
 `2020-2025`
 - Developed soft skills such as leadership, communication, counseling, and aiding in depression and addiction recovery
- - Helped individuals grow into leadership positions
+- Helped individuals grow into leadership positions
 
 
 

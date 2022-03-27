@@ -35,7 +35,6 @@ __Brigham Young University__, Provo, UT
 ## Related Experience
 
 ### Statistics Projects and Programming 
-
 `2020`
 __Madison Fire Department__, Rexburg, Idaho
 
